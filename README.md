@@ -1,9 +1,8 @@
 # General Onboarding - Admin
-===
 
 There are a couple of administrative tasks that you need to complete. All of this can be completed in less than an hour.
 
-## Things to do on your computer
+### Things to do on your computer
 
 - **Finish your Zenefits paperwork.** If you haven't finished tax, payroll, and benefits onboarding on Zenefits, do it now! Ask Mike Linshi if you have any questions.
 
@@ -17,7 +16,7 @@ There are a couple of administrative tasks that you need to complete. All of thi
 
 - **Sign up for Sherpaa (or not).** Watch [this video](https://vimeo.com/sherpaa/review/113927726/8de2379e14) to get a sense of what Sherpaa is all about. If you want to sign up for Sherpaa, email Lesley Bearg (Director of Finance) to introduce yourself and get set up. 
 
-## Things to do in real life
+### Things to do in real life
 
 - **Sign up for gym benefit (or not).** Flatiron School offers a membership to NY Health and Racquet Club. There are 9 locations in NYC, including one a few blocks away from 11 Broadway. If you'd like a membership, talk to Mike Linshi to get it set up. Flatiron School will pay NYHRC directly, so there is no reimbursement process involved.
 

@@ -14,7 +14,7 @@ There are a couple of administrative tasks that you need to complete. All of thi
 
 - **Sign up for Learn!** If you're reading this, chances are you're already signed up for Learn. However, there are many other tracks of content that you can go through to learn how to code. Introduce yourself to Adam Jonas (Managing Director of Labs) to get set up. You can work through the content on your own time, or during [Club Learn (employee coding club)](https://flatiron.atlassian.net/wiki/pages/viewpage.action?pageId=38666277).
 
-- **Sign up for Sherpaa (or not).** Watch [this video](https://vimeo.com/sherpaa/review/113927726/8de2379e14) to get a sense of what Sherpaa is all about. If you want to sign up for Sherpaa, email Lesley Bearg (Director of Finance) to introduce yourself and get set up. 
+- **Sign up for Sherpaa (or not).** Watch [this video](https://vimeo.com/sherpaa/review/113927726/8de2379e14) to get a sense of what Sherpaa is all about. If you want to sign up for Sherpaa, email Lesley Bearg (Director of Finance) to introduce yourself and get set up. Sherpaa is also available to your spouse or domestic partner - details are in the [wiki](https://flatiron.atlassian.net/wiki/display/ER/Sherpaa).
 
 ### Things to do in real life
 

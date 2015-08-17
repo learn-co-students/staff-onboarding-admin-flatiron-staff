@@ -18,6 +18,8 @@ There are a couple of administrative tasks that you need to complete. All of thi
 
 ### Things to do in real life
 
+- **Get some swag.** Introduce yourself to Jess Parker (Campus Manager), and ask her for some swag! We have t-shirts and stickers.
+
 - **Sign up for gym benefit (or not).** Flatiron School offers a membership to NY Health and Racquet Club. There are 9 locations in NYC, including one a few blocks away from 11 Broadway. If you'd like a membership, talk to Mike Linshi to get it set up. Flatiron School will pay NYHRC directly, so there is no reimbursement process involved.
 
-- **Get some swag.** Introduce yourself to Jess Parker (Campus Manager), and ask her for some swag! We have t-shirts and stickers.
+- **Get a building access card for 11 Broadway (Tuesdays only).** Building access cars for 11 Broadway can only be obtained at the security desk in the lobby from 10:30-11:00am on Tuesdays. Get a form from Mike Linshi.
